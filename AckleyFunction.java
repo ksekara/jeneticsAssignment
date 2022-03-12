@@ -102,7 +102,7 @@ public class AckleyFunction {
                 });
 
 
-        //writeToCsvFile(bestPhenotypeForEveryGeneration, "generation_phenotypes.csv");
+       
         System.out.println("Results :\n" + statisticsDouble);
 
     }
